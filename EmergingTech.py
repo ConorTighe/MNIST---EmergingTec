@@ -1,3 +1,4 @@
+# Conor Tighe - G00314417
 import gzip
 import numpy as np
 import PIL.Image as pil
